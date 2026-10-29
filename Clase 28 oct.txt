@@ -1,0 +1,3 @@
+El día miércoles 28 de octubre trabajamos en colab con la función import numpy.
+Utilizando y explorando sus funciones en general en arreglos y matrices. 
+Día de creación del repositorio. 
