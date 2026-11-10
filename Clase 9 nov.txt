@@ -1,0 +1,4 @@
+En la clase del día 9 de noviembre se dio a conocer Matplotlib y Pyplot,
+los diferentes tipos de gráficos y como elaborarlos cada uno.
+También se dieron las instrucciones para realizar el anexo de las bases de datos al repositorio.
+  
