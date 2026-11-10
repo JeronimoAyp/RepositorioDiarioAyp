@@ -1,0 +1,26 @@
+Biomedical Analysis & Risks.
+
+Es una base de datos del área de medicina preventiva y análisis de riesgos biomédicos y clínicos. Su propósito es entrenar y evaluar modelos de aprendizaje automático (como Random Forest) para clasificar y predecir de manera precisa el nivel de riesgo de salud de los individuos o etapas de enfermedades crónicas, facilitando la detección temprana. La base contiene variables fisiológicas, clínicas y sociodemográficas orientadas a la evaluación de factores de riesgo.
+
+Los datos se obtuvieron mediante registros médicos, historias clínicas y mediciones de salud estructuradas para modelado predictivo. Son datos tabulares y no contienen imágenes médicas.
+
+Fuente / URL de descarga:
+Kaggle (Búsqueda basada en reportes de rendimiento y benchmarks de Random Forest con 82.56% de precisión multiclase en la predicción de riesgos y patologías crónicas como la enfermedad renal).
+
+La base contiene filas correspondientes a perfiles o registros de pacientes y columnas de variables predictoras en total.
+
+Formato del archivo: CSV.
+
+Explicación de las columnas:
+
+* age: edad del individuo en años.
+* gender / sex: género biológico del paciente.
+* bmi: índice de masa corporal.
+* resting_heart_rate: frecuencia cardíaca en reposo.
+* blood_pressure: presión arterial sistólica o diastólica.
+* cholesterol_levels: niveles de colesterol en sangre.
+* blood_sugar / glucose: niveles de glucosa o azúcar en sangre.
+* lifestyle_factors: indicadores de tabaquismo, actividad física o hábitos de sueño.
+* family_history: antecedentes familiares de enfermedades crónicas.
+* clinical_markers: biomarcadores de laboratorio básicos.
+* risk_score / target: variable objetivo que clasifica el nivel de riesgo biomédico o la etapa de la enfermedad.

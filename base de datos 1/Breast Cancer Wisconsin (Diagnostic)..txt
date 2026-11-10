@@ -1,0 +1,20 @@
+Breast Cancer Wisconsin (Diagnostic).
+
+Es una base de datos del área de medicina y oncología que contiene información cuantitativa de los núcleos celulares para clasificar tumores de seno. Su propósito es entrenar modelos predictivos y realizar análisis estadísticos para determinar si un tumor es benigno o maligno. La base contiene variables de identificación, diagnóstico y características estadísticas del núcleo celular como radio, textura, perímetro, área, suavidad, compacidad, concavidad, puntos cóncavos, simetría y dimensión fractal (en sus variantes de media, error estándar y peor valor).
+
+Los datos fueron obtenidos a partir del análisis computacional e imágenes digitalizadas de una punción-aspiración con aguja fina (FNA) de masas mamarias. Son datos tabulares numéricos y no contienen imágenes médicas directas.
+
+Fuente / URL de descarga:
+Kaggle: [https://www.kaggle.com/uciml/breast-cancer-wisconsin-data](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+
+La base contiene 569 filas correspondientes a registros de pacientes y 32 columnas en total.
+
+Formato del archivo: CSV.
+
+Explicación de las columnas:
+
+* id: número de identificación único de la muestra.
+* diagnosis: diagnóstico del tejido mamario (M = Maligno, B = Benigno).
+* radius_mean, texture_mean, perimeter_mean, area_mean, smoothness_mean, compactness_mean, concavity_mean, concave points_mean, symmetry_mean, fractal_dimension_mean: valores medios de las características geométricas y morfológicas de los núcleos celulares.
+* radius_se, texture_se, perimeter_se, area_se, smoothness_se, compactness_se, concavity_se, concave points_se, symmetry_se, fractal_dimension_se: errores estándar de las respectivas características.
+* radius_worst, texture_worst, perimeter_worst, area_worst, smoothness_worst, compactness_worst, concavity_worst, concave points_worst, symmetry_worst, fractal_dimension_worst: peores o máximos valores (promedio de los tres valores más grandes) de las respectivas características.

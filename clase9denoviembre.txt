@@ -1,0 +1,5 @@
+el dia 9 de noviembre vimos que es matplotlib y pyplot
+también vimos como usar las graficas que estas librerías nos permiten usar
+vimos los diversos comandos que podemos usar para modificar las graficas
+que traen las librerías y dieron las instrucciones para agregar las bases 
+de datos al repositorio
