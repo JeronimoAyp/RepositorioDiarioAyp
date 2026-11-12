@@ -1,5 +1,10 @@
-el dia 9 de noviembre vimos que es matplotlib y pyplot
+el día 9 de noviembre vimos que es matplotlib y pyplot
 también vimos como usar las graficas que estas librerías nos permiten usar
 vimos los diversos comandos que podemos usar para modificar las graficas
 que traen las librerías y dieron las instrucciones para agregar las bases 
 de datos al repositorio
+
+el día 11 de noviembre el tiempo de la clase fue usado para poder trabajar
+en el proyecto del repositorio y corregir errores aparte de también tener 
+mejor asesoramiento por parte de profesor sobre el tema de como anclar las 
+bases de datos y también repartimos el orden de las exposiciones
