@@ -4,6 +4,10 @@ Es una base de datos relacionada con el área de salud y atención médica. Cont
 
 La base está diseñada principalmente para fines educativos y de análisis de datos. Los registros son sintéticos, es decir, fueron generados artificialmente y no corresponden a pacientes reales. Esto permite practicar análisis estadístico, visualización de datos y técnicas de aprendizaje automático sin utilizar información clínica real.
 
+Fuente / URL de descarga:
+Kaggle — Healthcare Dataset:
+https://www.kaggle.com/datasets/prasad22/healthcare-dataset 
+
 La base de datos cuenta con 10.000 filas y 15 columnas. 
 
 Formato del archivo:

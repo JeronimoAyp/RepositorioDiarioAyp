@@ -1,0 +1,16 @@
+El día miércoles 28 de octubre trabajamos en colab con la función import numpy. 
+Utilizando y explorando sus funciones en general en arreglos y matrices. 
+Día de creación del repositorio. 
+
+La clase del día 4 de noviembre se empezaron a trabajar y se explico la generalidad de las funciones de Pandas en Google colab, las cuales nos sirven para filtrar y organizar datos de manera eficiente.
+Se importaron en colab:
+ import pandas as pd 
+ import numpy as np 
+Y se empezaron a desarrollar los ejemplos de sus funciones en un archivo compartido por el profesor llamado "estudiantes",  el cual tenia datos como id, materia, nota y asistencia. 
+Se dio la instrucción de iniciar a buscar las bases de datos de biomédica para trabajar con ellas el
+proyecto final. 
+
+En la clase del día 9 de noviembre se dio a conocer Matplotlib y Pyplot, los diferentes tipos de gráficos y como elaborarlos cada uno.
+También se dieron las instrucciones para realizar el anexo de las bases de datos al repositorio.
+
+El día 11 de noviembre se dio el espacio para adelantar el trabajo final, para resolver dudas e ir ajustando el repositorio.
