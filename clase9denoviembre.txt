@@ -8,3 +8,17 @@ el día 11 de noviembre el tiempo de la clase fue usado para poder trabajar
 en el proyecto del repositorio y corregir errores aparte de también tener 
 mejor asesoramiento por parte de profesor sobre el tema de como anclar las 
 bases de datos y también repartimos el orden de las exposiciones
+
+clase 4 de octubre
+el dia de hoy vimos como usar las funciones del "import" con la librería
+de "pandas" al modificar las funciones variadas que esta misma trae con 
+diversos comandos haciendo que esta se vea reflejada en un archivo de Excel 
+llamado estudiantes que usamos como base de datos para implementar estas funciones.
+
+El 28 de octubre trabajamos en colab utilizando import numpy
+Utilizando y explorando sus funciones en general en arreglos y matrices de manera que pudimos aprender 
+adecuadamente en que casos utilizar estos comandos 
+
+
+
+
