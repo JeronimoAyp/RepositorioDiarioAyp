@@ -1,3 +1,0 @@
-El 28 de octubre trabajamos en colab utilizando import numpy
-Utilizando y explorando sus funciones en general en arreglos y matrices de manera que pudimos aprender 
-adecuadamente en que casos utilizar estos comandos 
