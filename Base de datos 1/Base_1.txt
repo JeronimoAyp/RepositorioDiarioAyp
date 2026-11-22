@@ -1,0 +1,29 @@
+Heart failure clinical records. 
+
+Es una base de datos del área de medicina y cardiología que contiene información clínica de 299 pacientes con insuficiencia cardíaca.Su propósito es analizar diferentes características clínicas de los pacientes y su posible relación con la supervivencia durante un período de seguimiento. La base contiene variables como edad, anemia, diabetes, presión arterial alta, fracción de eyección, creatinina, sodio, plaquetas, tabaquismo, sexo y tiempo de seguimiento. También contiene la variable DEATH_EVENT, que indica si el paciente murió durante el período de seguimiento. 
+
+Los datos fueron obtenidos a partir de registros médicos clínicos de pacientes con insuficiencia cardíaca recopilados durante su período de seguimiento. Son datos tabulares y no corresponden a imágenes médicas.
+
+Fuente / URL de descarga:
+Kaggle: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+Fuente original: UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/519/heart+failure
+
+La base contiene 299 filas correspondientes a pacientes y 13 columnas en total.
+
+Formato del archivo: CVS heart_failure_clinical_records_dataset.csv.
+
+Expolicación de las columnas:
+
+* age: edad del paciente.
+* anaemia: informa si tiene anemia.
+* creatinine_phosphokinase: mide la cantidad de una enzima relacionada con músculos y corazón.
+* diabetes: indica si tiene diabetes.
+* ejection_fraction: indica qué porcentaje de sangre bombea el corazón en cada contracción.
+* high_blood_pressure: indica si tiene hipertensión.
+* platelets: cantidad de plaquetas en la sangre.
+* serum_creatinine: nivel de creatinina en sangre, utilizado como indicador relacionado con la función renal.
+* serum_sodium: cantidad de sodio en la sangre.
+* sex: sexo del paciente.
+* smoking: indica si fuma.
+* time: cantidad de días que fue seguido el paciente.
+* DEATH_EVENT: indica si ocurrió la muerte durante el seguimiento
